@@ -1,0 +1,7 @@
+# Ignore raw and large data files (keep them local)
+data/*.csv
+
+# Python and Jupyter Notebook junk
+__pycache__/
+.ipynb_checkpoints/
+.env
