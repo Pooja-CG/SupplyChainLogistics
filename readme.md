@@ -13,17 +13,6 @@ Welcome to my supply chain analytics project! This repository contains an end-to
 ## 📷 Dashboard Preview
 ![Dashboard Preview](dashboard/data-analysis.png)
 
----
-
-## 📂 Project Structure
-```text
-SupplyChainLogistics-Dashboard/
-│
-├── data/                  # Contains raw and cleaned CSV datasets
-├── dashboard/             # Stores the Power BI dashboard screenshot
-├── notebook/              # Jupyter Notebook used for data cleaning
-└── README.md              # Project documentation
-
 🛠️ Tech Stack
 Python (Pandas, Jupyter Notebook)
 
@@ -37,3 +26,14 @@ Overall OTD Rate: Maintaining an on-time delivery rate of 88.51%.
 Total Shipments: Over 10,000 shipments tracked globally.
 
 Freight Costs: Over $68.82 Million analyzed across various vendors and transportation modes.
+
+---
+
+## 📂 Project Structure
+```text
+SupplyChainLogistics-Dashboard/
+│
+├── data/                  # Contains raw and cleaned CSV datasets
+├── dashboard/             # Stores the Power BI dashboard screenshot
+├── notebook/              # Jupyter Notebook used for data cleaning
+└── README.md              # Project documentation
