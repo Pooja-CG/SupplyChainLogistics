@@ -4,13 +4,13 @@ Welcome to my supply chain analytics project! This repository contains an end-to
 
 ---
 
-## 🚀 What This Project Does
+## What This Project Does
 * **Data Cleaning (Python):** Handles missing values, fixes data formats, and prepares raw shipping logs for analysis.
 * **Data Visualization (Power BI):** Displays key metrics like total shipments, on-time delivery (OTD) rates, freight costs, and shipping delays in a clean, executive-ready dashboard.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Preview](dashboard/data-analysis.png)
 
 🛠️ Tech Stack
